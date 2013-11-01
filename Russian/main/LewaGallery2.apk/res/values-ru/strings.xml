@@ -455,7 +455,7 @@
     <string name="add_image">Добавить изображение или видео</string>
     <string name="add_success">Добавлено успешно</string>
     <string name="not_image_or_video">Нет изображений</string>
-    <string name="select_folder">Выбрать альбомы</string>
+    <string name="select_folder">Выбрать папки</string>
     <string name="no_storage_or_album_delete">Нет SD-карты или альбом удален</string>
     <string name="picture_move_to_album">Изображение перенесено в альбом: %s</string>
     <string name="support_by_camera360">Техническая поддержка: Camera360</string>
