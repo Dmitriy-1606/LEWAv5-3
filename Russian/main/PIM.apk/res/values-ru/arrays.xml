@@ -41,7 +41,7 @@
         <item>:-X</item>
         <item>:-D</item>
         <item>o_O</item>
-        <item>&amp;amp;amp;amp;amp;lt;3</item>
+        <item>&amp;amp;amp;amp;lt;3</item>
         <item>x-(</item>
         <item>:-/</item>
         <item>:-I</item>
@@ -161,7 +161,7 @@
         <item>Низкий</item>
     </string-array>
     <string-array name="pref_sms_input_mode_choice">
-        <item>GSM алфавит</item>
+        <item>GSM-алфавит</item>
         <item>Юникод</item>
         <item>Авто</item>
     </string-array>
@@ -342,8 +342,8 @@
         <item>HangZhou</item>
     </string-array>
     <string-array name="ims_ip_call_setting_items">
-        <item>Звонки на дальние расстояния</item>
-        <item>Все звонки</item>
+        <item>Вызовы на дальние расстояния</item>
+        <item>Все вызовы</item>
     </string-array>
     <string-array name="pref_sms_backup_location">
         <item>sdcard</item>
@@ -372,8 +372,8 @@
         <item>Никогда</item>
     </string-array>
     <string-array name="prefValues_vibrateWhen">
-        <item>всегда</item>
-        <item>бесшумно</item>
-        <item>никогда</item>
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
     </string-array>
 </resources>

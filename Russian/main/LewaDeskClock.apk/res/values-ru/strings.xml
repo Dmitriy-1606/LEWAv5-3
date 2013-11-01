@@ -108,7 +108,7 @@
     <string name="delete_selected">Выбранные %s</string>
     <string name="alarm_empty_text">Нажмите кнопку, чтобы добавить будильник</string>
     <string name="world_clock_empty_text">Нажмите кнопку, чтобы добавить часы</string>
-    <string name="add_city">Добавить часы</string>
+    <string name="add_city">Добавить город</string>
     <string name="could_not_add_more_lap_time">Извините, максимум 99 записей!</string>
     <string name="menu_actionbar_selected_items">%s выбрано</string>
     <string name="menu_multichoice_select_all">Выбрать всё</string>

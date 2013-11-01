@@ -62,7 +62,7 @@
    <string name="lunar_shi">десять</string>
    <string name="lunar_shi_yi">зимний</string>
    <string name="lunar_shi_er">декабрь</string>
-   <string name="lunar_chu_shi">десятый</string>
+    <string name="lunar_chu_shi">десять</string>
    <string name="lunar_er_shi">двадцать</string>
    <string name="lunar_san_shi">тридцать</string>
    <string name="lunar_chu">ранее</string>

@@ -1334,14 +1334,14 @@
     <string name="call_log_clear_all">Очистить журнал вызова</string>
     <string name="mms_select_contacts_group_count">контакты</string>
     <string name="mms_select_contacts_recent_contacts">последние контакты</string>
-    <string name="message_compose_menu_resend_label">Переслать</string>
+    <string name="message_compose_menu_resend_label">Перепослать</string>
     <string name="message_send_fail">Ошибка отправки: %s</string>
     <string name="message_send_to">Отправить:</string>
     <string name="pref_title_save_location">Папка сохранения вложений</string>
     <string name="pref_summary_save_location">Папка для сохранения вложений сообщений</string>
     <string name="remove_subject">Удалите тему</string>
     <string name="message_compose_menu_mms_resend_label">Переслать MMS</string>
-    <string name="message_item_received_label">Доставлено в :</string>
+    <string name="message_item_received_label">Доставлено получателю</string>
     <string name="sms_backup_location">Место для резервных копий SMS</string>
     <string name="sms_send_count_limit">Отправить сообщение можно только выбрать один из 100 контактов</string>
     <string name="mms_lewa_easter_eggs">С Новым годом!</string>
@@ -1467,6 +1467,7 @@
     <string name="view_more_conversations">Посмотреть больше разговоров</string>
     <string name="mms_timer_text_formart" formatted="false">%sYear%sMonth%sDay</string>
     <string name="menu_mms_timer_send">таймер отправки :</string>
+    <string name="notify_type_message">Сообщение уведомления</string>
     <string name="ip_call_settings">Настройки IP-вызова</string>
     <string name="ip_prefix_hint">Например 17951,12593,17911</string>
     <string name="ip_prefix_description">IP-префикс</string>

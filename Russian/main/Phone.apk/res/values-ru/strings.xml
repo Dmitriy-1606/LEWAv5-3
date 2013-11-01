@@ -62,7 +62,7 @@
    <string name="lunar_shi">десять</string>
    <string name="lunar_shi_yi">зимний</string>
    <string name="lunar_shi_er">декабрь</string>
-   <string name="lunar_chu_shi">десятый</string>
+   <string name="lunar_chu_shi">десять</string>
    <string name="lunar_er_shi">двадцать</string>
    <string name="lunar_san_shi">тридцать</string>
    <string name="lunar_chu">ранее</string>
@@ -232,8 +232,8 @@
     <string name="dualtalk_tip_accept_disconnect_outgoing">Ответ на этот вызов приведет к завершению исходящего вызова</string>
     <string name="dualtalk_tip_accept_disconnect_incoming">Ответ на этот вызов приведет к отклонению другого входящего вызова</string>
     <string name="dualtalk_tip_accept_disconnect_voice">Ответ на этот вызов приведет к завершению голосового вызова</string>
-    <string name="dualtalk_tip_accept_disconnect_outgoing_reject_incoming">Ответ на этот вызов приведет к завершению исходящего звонка и отклонению другого входящего вызова</string>
-    <string name="dualtalk_tip_accept_disconnect_current_reject_incoming">Ответ на этот вызов приведет к завершению текущего звонка и отклонению другого входящего вызова</string>
+    <string name="dualtalk_tip_accept_disconnect_outgoing_reject_incoming">Ответ на этот вызов приведет к завершению исходящего вызова и отклонению другого входящего вызова</string>
+    <string name="dualtalk_tip_accept_disconnect_current_reject_incoming">Ответ на этот вызов приведет к завершению текущего вызова и отклонению другого входящего вызова</string>
     <string name="onscreenCdmaManageCallext">Управление вызовом</string>
     <string name="onscreenCdmaMergeCallext">Объединение вызова</string>
     <string name="end_call_because_can_not_hold">"Окончить текущий вызов, так как он не может быть удержан"</string>
@@ -1011,7 +1011,7 @@
     <string name="not_a_valid_port">Номер порта должен быть от 1000 до 65534</string>
     <string name="no_internet_available_title">Подключение к Интернету отсутствует</string>
     <string name="no_wifi_available_title">Отсутствует подключение Wi-Fi</string>
-    <string name="no_internet_available">Перед звонком через Интернет проверьте подключение</string>
+    <string name="no_internet_available">Перед вызовом через Интернет проверьте подключение</string>
     <string name="no_wifi_available">Для совершения Интернет-вызовов необходимо подключение к сети Wi-Fi (используйте настройки беспроводной сети)</string>
     <string name="no_voip">Интернет-телефония не поддерживается</string>
     <string name="sip_system_decide">Автоматически</string>
@@ -1065,9 +1065,8 @@
     <string name="voicemail_notification_vibarte_when_dialog_title">Вибрация</string>
     <string name="voicemail_notification_ringtone_title">Мелодия вызова</string>
     <string name="voicemail_notification_vibrate_when_default">никогда</string>
-
     <string name="ringtone_title">Мелодия вызова</string>
-    <string name="vibrate_on_ring_title">Вибрация при звонке</string>
+    <string name="vibrate_on_ring_title">Вибрация при вызове</string>
     <string name="dtmf_tone_enable_title">Тон набора сенсорной панели</string>
     <string name="preference_category_ringtone">Мелодия вызова</string>
     <string name="uppertitle_tip">Разговор:</string>
@@ -1081,7 +1080,7 @@
     <string name="vibrate_hangup">Вибрация при завершении</string>
     <string name="vibrate_hangup_sum">Вибрировать, когда разговор завершен</string>
     <string name="screen_awake">Не отключать экран</string>
-    <string name="screen_awake_sum">Экран будет включен дольше, чем обычно при звонке</string>
+    <string name="screen_awake_sum">Экран будет включен дольше, чем обычно при вызове</string>
     <string name="vibrate_call_waiting">Вибрация при вход. вызове</string>
     <string name="vibrate_call_waiting_sum">Вибрировать при входящем вызове в режиме ожидания</string>
     <string name="gemini_data_roaming_title">Передача данных в роуминге</string>
@@ -1115,4 +1114,5 @@
     <string name="voice_call_ringtone_setting_title">Настройки мелодии вызова</string>
     <string name="voice_call_ringtone_title">Мелодия вызова</string>
     <string name="incoming_call_silent">Перевернуть для тихого режима</string>
+    <string name="smart_answer">Умный ответ</string>
 </resources>

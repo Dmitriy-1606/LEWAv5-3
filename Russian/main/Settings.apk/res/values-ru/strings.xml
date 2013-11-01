@@ -1046,9 +1046,9 @@
     <string name="wifi_dont_skip">Не пропускать</string>
     <string name="wifi_skipped_message">"ВНИМАНИЕ: Может взиматься дополнительная плата за передачу данных.
 
-Настройка телефона может потребовать значительной сетевой активности."</string>
-    <string name="wifi_and_mobile_skipped_message">ВНИМАНИЕ: Телефон не сможет проверить, что Ваше программное обеспечение в актуальном состоянии</string>
-    <string name="wifi_connect_failed_message">Телефону не удалось подключиться к этому Wi-Fi.</string>
+Настройка устройства может потребовать значительной сетевой активности."</string>
+    <string name="wifi_and_mobile_skipped_message">ВНИМАНИЕ: устройство не сможет проверить, что Ваше программное обеспечение в актуальном состоянии</string>
+    <string name="wifi_connect_failed_message">Не удалось подключиться к этому Wi-Fi</string>
     <string name="wifi_advanced_titlebar">Дополнительно</string>
     <string name="wifi_setting_frequency_band_title">Диапазон частот Wi-Fi</string>
     <string name="wifi_setting_frequency_band_summary">Укажите рабочий диапазон частот</string>
@@ -1082,7 +1082,7 @@
     <string name="wifi_p2p_failed_rename_message">Ошибка переименования</string>
     <string name="wifi_p2p_disconnect_title">Разъединить?</string>
     <string name="wifi_p2p_disconnect_message">Если отключиться, то ваше соединение с %1$s будет разорвано</string>
-    <string name="wifi_p2p_disconnect_multiple_message">Если отключиться, то ваше соединение с %1$s и %2$s другими устройствами будет разорвано</string>
+    <string name="wifi_p2p_disconnect_multiple_message">Если отключиться, то Ваше соединение с %1$s и %2$s другими устройствами будет разорвано</string>
     <string name="wifi_p2p_cancel_connect_title">Отменить приглашение?</string>
     <string name="wifi_p2p_cancel_connect_message">Вы хотите отменить приглашение к соединению с %1$s?</string>
     <string name="wifi_p2p_delete_group_message">Забыть эту группу?</string>
@@ -1141,10 +1141,10 @@
     <string name="alarm_volume_title">Будильник</string>
     <string name="dock_settings_summary">Настройки звука для подключенной док-станции</string>
     <string name="dtmf_tone_enable_title">Звук клавиш</string>
-    <string name="sound_effects_enable_title">Звук нажатия на экран</string>
+    <string name="sound_effects_enable_title">Звук касания экрана</string>
     <string name="lock_sounds_enable_title">Звук блокировки экрана</string>
-    <string name="haptic_feedback_enable_title">Виброотклик экрана</string>
-    <string name="audio_record_proc_title">Подавление шума</string>
+    <string name="haptic_feedback_enable_title">Вибрация при касании</string>
+    <string name="audio_record_proc_title">Шумоподавление</string>
     <string name="volume_media_description">Мультимедиа</string>
     <string name="volume_ring_description">Мелодия и уведомления</string>
     <string name="volume_notification_description">Оповещения</string>
@@ -1164,8 +1164,8 @@
     <string name="dock_not_found_title">Док-станция не найдена</string>
     <string name="dock_not_found_text">Чтобы настроить док-станцию, установите в нее устройство</string>
     <string name="dock_sounds_enable_title">Звук при установке в док-станцию</string>
-    <string name="dock_sounds_enable_summary_on">Воспроизводить звук при установке или извлечении телефона</string>
-    <string name="dock_sounds_enable_summary_off">Не воспроизводить звук при установке или извлечении телефона</string>
+    <string name="dock_sounds_enable_summary_on">Воспроизводить звук при установке или извлечении устройства</string>
+    <string name="dock_sounds_enable_summary_off">Не воспроизводить звук при установке или извлечении устройства</string>
     <string name="account_settings">Аккаунты</string>
     <string name="search_settings">Поиск</string>
     <string name="search_settings_summary">Настроить параметры и управлять историей поиска</string>
@@ -1354,7 +1354,7 @@
 
 Чтобы удалить музыку, фотографии и другие пользовательские данные, необходимо очистить  \""<b>SD</b>"\". "</string>
     <string name="erase_external_storage">Очистить SD</string>
-    <string name="erase_external_storage_description">Удалить с SD-карты все данные, в том числе музыку и фотографии</string>
+    <string name="erase_external_storage_description">Удалить с SD все данные, в том числе музыку и фотографии</string>
     <string name="master_clear_button_text">Сброс настроек</string>
     <string name="master_clear_final_desc">Удалить всю личную информацию и загруженные приложения без возможности восстановления?</string>
     <string name="master_clear_final_button_text">Стереть все</string>
@@ -1364,9 +1364,9 @@
     <string name="master_clear_confirm_title">Выполнить сброс?</string>
     <string name="media_format_title">Очистить SD-карту</string>
     <string name="media_format_summary">Удаление всех данных с SD-карты</string>
-    <string name="media_format_desc">Очистить SD-карту? Все данные будут удалены безвозвратно.</string>
-    <string name="media_format_button_text">Очистить SD-карту</string>
-    <string name="media_format_final_desc">Удалить с SD-карты все файлы без возможности восстановления?</string>
+    <string name="media_format_desc">Очистить SD? Все данные будут удалены безвозвратно</string>
+    <string name="media_format_button_text">Очистить SD</string>
+    <string name="media_format_final_desc">Удалить с SD все файлы без возможности восстановления?</string>
     <string name="media_format_final_button_text">Стереть все</string>
     <string name="media_format_gesture_prompt">Начертить графический ключ разблокировки</string>
     <string name="media_format_gesture_explanation">Для подтверждения очистки SD-карты начертите графический ключ</string>
@@ -1526,7 +1526,7 @@
  
 Данные приложений удалены не будут"</string>
     <string name="reset_app_preferences_button">Да</string>
-    <string name="manage_space_text">Управление местом</string>
+    <string name="manage_space_text">Управление памятью</string>
     <string name="filter">Фильтр</string>
     <string name="filter_dlg_title">Выберите параметры фильтра</string>
     <string name="filter_apps_all">Все</string>

@@ -2,7 +2,7 @@
 <resources>
     <string-array name="desktop_transition_effect_entries">
         <item>Стандарт</item>
-        <item>Стандарт (без отскока)</item>
+        <item>Отскок</item>
         <item>Планшет</item>
         <item>Приближение</item>
         <item>Отдаление</item>
@@ -16,12 +16,11 @@
         <item>Аккордеон</item>
         <item>Цилиндр наружу</item>
         <item>Цилиндр внутрь</item>
-        <item>Карусель влево</item>
-        <item>Карусель вправо</item>
+        <item>Карусель</item>
     </string-array>
     <string-array name="desktop_transition_effect_values">
         <item>Standard</item>
-        <item>NoOverShoot</item>
+        <item>OverShoot</item>
         <item>Tablet</item>
         <item>ZoomIn</item>
         <item>ZoomOut</item>
@@ -36,7 +35,6 @@
         <item>CylinderIn</item>
         <item>CylinderOut</item>
         <item>CarouselLeft</item>
-        <item>CarouselRight</item>
     </string-array>
     <string-array name="screen_layout">
         <item>4 * 4</item>

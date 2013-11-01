@@ -234,4 +234,5 @@
     <string name="recovering_to_msg_list">Восстановление в цепочки сообщений....</string>
     <string name="recovering_to_calllog">Восстановление в журнал вызовов....</string>
     <string name="title_unknown_number">Неизвестный номер</string>
+    <string name="ic_more">Еще</string>
 </resources>
