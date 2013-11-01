@@ -31,7 +31,7 @@
     <string name="usage_nocard">неизвестно</string>
     <string name="usage_total">Всего использовано</string>
     <string name="usage_plan">Лимит</string>
-    <string name="usage_adjust">Синхронизация</string>
+    <string name="usage_adjust">Оператор</string>
     <string name="usage_adjusting">Синхронизация</string>
     <string name="usage_adjust_success">Синхронизация успешна</string>
     <string name="usage_adjust_failure">Ошибка синхронизации</string>
