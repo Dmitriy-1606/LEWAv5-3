@@ -635,7 +635,7 @@
     <string name="select_image">Выбрать фото</string>
     <string name="select_video">Выбрать видео</string>
     <string name="select_item">Выбрать файлы</string>
-    <string name="select_album">Выбрать альбомы</string>
+    <string name="select_album">Добавить альбомы</string>
     <string name="select_group">Выбрать группы</string>
     <string name="set_image">Установить изображение как</string>
     <string name="set_wallpaper">Установить обои</string>
