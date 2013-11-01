@@ -437,7 +437,7 @@
     <string name="travel_album_path">Pictures/travel</string>
     <string name="default_camera_category">android.intent.category.LAUNCHER</string>
     <string name="camera_roll_tab">Камера</string>
-    <string name="phone_pictures_tab">Фото на устройстве</string>
+    <string name="phone_pictures_tab">Альбомы</string>
     <string name="today">Сегодня</string>
     <string name="yesterday">Вчера</string>
     <string name="tomorrow">Завтра</string>
