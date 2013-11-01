@@ -94,8 +94,8 @@
     <string name="pref_summary_wallpaper_scrolling">Обои перемещаются вместе с рабочим столом</string>
     <string name="pref_title_action_updown">Жесты рабочего стола</string>
     <string name="pref_summary_action_updown">Жест вниз, чтобы открыть строку уведомлений</string>
-    <string name="pref_title_shake">Встряхивание для группировки</string>
-    <string name="pref_summary_shake">"Всряхивание устройства для быстрой группировки приложений на текущем рабочем столе"</string>
+    <string name="pref_title_shake">Группировка встряхиванием</string>
+    <string name="pref_summary_shake">"Быстрая группировка приложений на текущем рабочем столе"</string>
     <string name="pref_title_lewa_lockscreen">Использовать Локскрин Lewa</string>
     <string name="pref_hide_status_bar">Спрятать строку уведомлений при заблокированном экране</string>
     <string name="pref_title_resetlauncher">Сброс настроек лаунчера</string>
