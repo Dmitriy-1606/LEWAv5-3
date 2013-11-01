@@ -1114,5 +1114,5 @@
     <string name="voice_call_ringtone_setting_title">Настройки мелодии вызова</string>
     <string name="voice_call_ringtone_title">Мелодия вызова</string>
     <string name="incoming_call_silent">Перевернуть для тихого режима</string>
-    <string name="smart_answer">Умный ответ</string>
+    <string name="smart_answer">Быстрый ответ</string>
 </resources>
