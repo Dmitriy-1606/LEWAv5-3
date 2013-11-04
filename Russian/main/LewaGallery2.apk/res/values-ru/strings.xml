@@ -444,8 +444,8 @@
     <string name="delete_selection_message">Удалить выбранные элементы?</string>
     <string name="menu_actionbar_selected_items">%1$d выбраны</string>
     <string name="deleting">Удаление</string>
-    <string name="no_video_and_image">Нет видео и изображений</string>
-    <string name="no_image">Нет изображений</string>
+    <string name="no_video_and_image">Нет видео и фото</string>
+    <string name="no_image">Нет фото</string>
     <string name="no_video">Нет видео</string>
     <string name="duration_timer_format_with_hour">%1$d:%2$d:%3$d</string>
     <string name="duration_timer_format_without_hour">%1$d:%2$d</string>
