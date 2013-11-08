@@ -787,6 +787,6 @@
     <string name="f360_HDR_Soft_p">C360_HDR_Soft</string>
     <string name="f360_BW_Normal_p">C360_BW_Normal</string>
     <string name="set_as_wallpaper">Обои</string>
-    <string name="set_as_lockscreen">Обои локскрина</string>
-    <string name="set_as_both">Оба</string>
+    <string name="set_as_lockscreen">Раб. стол</string>
+    <string name="set_as_both">Все</string>
 </resources>
